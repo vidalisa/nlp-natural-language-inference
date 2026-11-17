@@ -5,3 +5,4 @@ __pycache__/
 results/
 *.pickle
 *.pt
+/project 2/course code/wiki-news-300d-1M.vec.zip
