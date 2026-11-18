@@ -7,3 +7,5 @@ results/
 *.pt
 /project 2/course_code/wiki-news-300d-1M.vec.zip
 /project 2/wiki-news-300d-1M.vec.zip
+/project 2/glove.6B.zip
+/project 2/glove.6B.300d.txt
